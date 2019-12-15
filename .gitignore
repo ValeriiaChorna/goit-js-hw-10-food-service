@@ -68,10 +68,10 @@ typings/
 .env.test.local
 .env.production.local
 
-*.json
-*.md
-postcss.config.js
-.babelrc
-.ditorconfig
-.eslintrc.js
-.prettierrc
+.json
+.md
+*postcss.config.js
+*.babelrc
+*.ditorconfig
+*.eslintrc.js
+*.prettierrc
