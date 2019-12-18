@@ -1,5 +1,5 @@
 # production
-/build
+# /build
 
 # Logs
 logs
@@ -38,7 +38,6 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
-webpack/
 
 # Typescript v1 declaration files
 typings/
@@ -67,11 +66,3 @@ typings/
 .env.development.local
 .env.test.local
 .env.production.local
-
-.json
-.md
-*postcss.config.js
-*.babelrc
-*.ditorconfig
-*.eslintrc.js
-*.prettierrc
